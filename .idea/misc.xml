@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/eak13/AndroidStudioProjects/MiniGame/app/src/main/res/drawable/back.xml" value="0.4117948717948718" />
+        <entry key="..\:/Users/eak13/AndroidStudioProjects/MiniGame/app/src/main/res/drawable/border.xml" value="0.31574074074074077" />
+        <entry key="..\:/Users/eak13/AndroidStudioProjects/MiniGame/app/src/main/res/drawable/border1.xml" value="0.31574074074074077" />
+        <entry key="..\:/Users/eak13/AndroidStudioProjects/MiniGame/app/src/main/res/drawable/border2.xml" value="0.4117948717948718" />
+        <entry key="..\:/Users/eak13/AndroidStudioProjects/MiniGame/app/src/main/res/drawable/list.xml" value="0.4117948717948718" />
+        <entry key="..\:/Users/eak13/AndroidStudioProjects/MiniGame/app/src/main/res/drawable/list_select.xml" value="0.4117948717948718" />
+        <entry key="..\:/Users/eak13/AndroidStudioProjects/MiniGame/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/eak13/AndroidStudioProjects/MiniGame/app/src/main/res/layout/activity_screen.xml" value="0.5" />
+        <entry key="..\:/Users/eak13/AndroidStudioProjects/MiniGame/app/src/main/res/layout/activity_send.xml" value="0.33" />
+        <entry key="..\:/Users/eak13/AndroidStudioProjects/MiniGame/app/src/main/res/layout/dialog.xml" value="0.25271739130434784" />
+        <entry key="..\:/Users/eak13/AndroidStudioProjects/MiniGame/app/src/main/res/layout/list_item.xml" value="0.33" />
+        <entry key="..\:/Users/eak13/AndroidStudioProjects/MiniGame/app/src/main/res/mipmap-anydpi-v26/main icon.xml" value="0.4117948717948718" />
+        <entry key="..\:/Users/eak13/AndroidStudioProjects/MiniGame/app/src/main/res/mipmap-anydpi-v26/tg.xml" value="0.2453125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
